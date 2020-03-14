@@ -4,3 +4,8 @@
 
 
 2. Remember to set network.eval() at test time
+
+
+3. Convert tensor to image for visualization
+
+https://discuss.pytorch.org/t/simple-way-to-inverse-transform-normalization/4821/6

@@ -8,4 +8,6 @@
 
 3. Convert tensor to image for visualization
 
-https://discuss.pytorch.org/t/simple-way-to-inverse-transform-normalization/4821/6
+  https://discuss.pytorch.org/t/simple-way-to-inverse-transform-normalization/4821/6
+
+4. Dataloader will automatically convert numpy data type in Dataset to corresponding torch data type

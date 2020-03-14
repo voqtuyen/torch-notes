@@ -14,3 +14,5 @@
 
 
 5. Inherit nn.Module for custom loss
+
+6. Input of torch transforms must be PIL image
